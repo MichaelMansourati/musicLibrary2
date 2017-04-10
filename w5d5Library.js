@@ -56,6 +56,6 @@ const playlists = [newPlaylist, newPlaylistAgain];
 const finalLibrary  = new Library("my library", "Michael", playlists);
 
 
-console.log(finalLibrary.playlists[0].tracks);
+console.log(finalLibrary);
 
 
